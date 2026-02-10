@@ -5,7 +5,7 @@ Year: 2026
 
 ## Overview
 
-The Central Bank Policy Rate Forecast Tool is an interactive, IMF / Central Bank-grade dashboard designed to:
+The Central Bank Policy Rate Forecast Tool is an interactive, Central Bank-grade dashboard designed to:
 
 - Forecast the Bank of Zambia policy rate using machine learning models.
 
